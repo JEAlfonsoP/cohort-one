@@ -230,3 +230,12 @@ Development updates from [`taylorjordanNC`](https://github.com/taylorjordanNC/)
 ### Taylor: Update 2
 
 [Update #2](https://hackmd.io/@vanitas/stage-1)
+
+### JA
+
+Development updates from [`JEAlfonsoP`](https://github.com/JEAlfonsoP/)
+
+### JA : Update 1
+
+[Update #1](https://github.com/JEAlfonsoP/evm-tracing-comparison/blob/main/README.md)
+
