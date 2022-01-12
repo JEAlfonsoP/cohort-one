@@ -78,6 +78,14 @@
     - [Update #1](#taylor-update-1)
     - [Update #2](#taylor-update-2)
     - [Update #3](#taylor-update-3)
+    
+- [JEAlfonsoP] (#JA)
+    - [Update #1] (#JA-update-1)
+    - [Update #2] (#JA-update-2)
+    - [Update #3] (#JA-update-3)
+    - [Update #4] (#JA-update-4)
+
+
 
 
 ## Contributing
@@ -294,3 +302,30 @@ Development updates from [`taylorjordanNC`](https://github.com/taylorjordanNC/)
 ### Taylor: Update 3
 
 [Update #3](https://hackmd.io/@vanitas/stage-1-1)
+
+## JEAlfonsop JA
+
+Development updates from [`JEAlfonsoP`](https://github.com/JEAlfonsoP)
+
+### JA: Update 1
+
+[Update #1](https://github.com/JEAlfonsoP/cohort-one/blob/master/stage-1-project-discovery.md)
+
+### JA: Update 2
+
+[Update #2](https://github.com/JEAlfonsoP/cohort-one/blob/master/stage-2-project-exploration.md)
+
+### JA: Update 3
+
+[Update #3](https://github.com/JEAlfonsoP/cohort-one/blob/master/stage-3-project-planning.md)
+
+### JA: Update 4
+
+[Update #4](https://github.com/JEAlfonsoP/cohort-one/blob/master/stage-4-project-execution.md)
+
+
+
+
+
+
+
