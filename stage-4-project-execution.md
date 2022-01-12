@@ -6,5 +6,5 @@ Report:
 
 It was only possible to run geth and nethermind archive nodes. For Besu, Open-Ethereum and Erigon further work is needed. With better resources a deeper comparison could be presented.
 
-The main conclusion is that in fact there are differences between APIs access and results for both clients. Questions: Is this an efficiency decreasing factor to be considered and evaluated  ? Will these differences affect the merge for the different client combinations ?
-
+The main conclusion is that in fact there are differences between APIs access and results for both clients. Questions: Is this an efficiency decreasing factor to be considered and evaluated  ? Will these differences affect the merge performance for the different client combinations ?
+So far looks like the answer is Not for both questions but personally believe that an homogeneous standardized environment is simpler that one that is not..
